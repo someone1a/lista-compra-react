@@ -1,0 +1,1 @@
+// Page that loads shared list based on URL param

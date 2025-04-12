@@ -1,0 +1,1 @@
+// Supabase client setup using .env values
